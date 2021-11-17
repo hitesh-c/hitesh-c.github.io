@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/hitesh-c.github/static/css/main.b05fdc84.chunk.css",
+    "main.js": "/hitesh-c.github/static/js/main.32a8f728.chunk.js",
+    "main.js.map": "/hitesh-c.github/static/js/main.32a8f728.chunk.js.map",
+    "runtime-main.js": "/hitesh-c.github/static/js/runtime-main.09a31479.js",
+    "runtime-main.js.map": "/hitesh-c.github/static/js/runtime-main.09a31479.js.map",
+    "static/css/2.e7f3f9d7.chunk.css": "/hitesh-c.github/static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.2d354261.chunk.js": "/hitesh-c.github/static/js/2.2d354261.chunk.js",
+    "static/js/2.2d354261.chunk.js.map": "/hitesh-c.github/static/js/2.2d354261.chunk.js.map",
+    "static/js/3.f0e5a195.chunk.js": "/hitesh-c.github/static/js/3.f0e5a195.chunk.js",
+    "static/js/3.f0e5a195.chunk.js.map": "/hitesh-c.github/static/js/3.f0e5a195.chunk.js.map",
+    "index.html": "/hitesh-c.github/index.html",
+    "static/css/2.e7f3f9d7.chunk.css.map": "/hitesh-c.github/static/css/2.e7f3f9d7.chunk.css.map",
+    "static/css/main.b05fdc84.chunk.css.map": "/hitesh-c.github/static/css/main.b05fdc84.chunk.css.map",
+    "static/js/2.2d354261.chunk.js.LICENSE.txt": "/hitesh-c.github/static/js/2.2d354261.chunk.js.LICENSE.txt",
+    "static/media/Soumyajit-Behera.394b6e42.pdf": "/hitesh-c.github/static/media/Soumyajit-Behera.394b6e42.pdf",
+    "static/media/about.aee0f771.png": "/hitesh-c.github/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/hitesh-c.github/static/media/avatar.5852f40f.svg",
+    "static/media/blog.52102140.png": "/hitesh-c.github/static/media/blog.52102140.png",
+    "static/media/chatify.9373edda.png": "/hitesh-c.github/static/media/chatify.9373edda.png",
+    "static/media/codeEditor.ba945879.png": "/hitesh-c.github/static/media/codeEditor.ba945879.png",
+    "static/media/emotion.e92e314a.jpeg": "/hitesh-c.github/static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/hitesh-c.github/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/hitesh-c.github/static/media/home-main.541f8179.svg",
+    "static/media/leaf.4c15d6eb.png": "/hitesh-c.github/static/media/leaf.4c15d6eb.png",
+    "static/media/suicide.b72f1f9f.png": "/hitesh-c.github/static/media/suicide.b72f1f9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09a31479.js",
+    "static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.2d354261.chunk.js",
+    "static/css/main.b05fdc84.chunk.css",
+    "static/js/main.32a8f728.chunk.js"
+  ]
+}
