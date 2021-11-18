@@ -18,6 +18,7 @@ html {
   border-radius: 50% !important;
   width: 70%;
   height: inherit;
+  pointer-events: none;
 }
 
 .purple {
@@ -143,7 +144,7 @@ html {
   opacity: 0.9 !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 736px) {
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
@@ -152,6 +153,23 @@ html {
   .navbar-nav .nav-item a::after {
     display: none !important;
   }
+
+  .heading {
+    font-size: 2.4em !important;
+    padding-left: 20px !important;
+  }
+  
+  .heading-name {
+    font-size: 2.5em !important;
+    padding-left: 19px !important;
+  }
+
+  .navbar-nav .nav-item {
+    position: relative !important;
+    /* margin-left: 20
+px
+; */
+}
 }
 .navbar-brand {
   color: rgb(250, 250, 250) !important;
@@ -276,12 +294,12 @@ html {
 
 .heading {
   font-size: 2.4em !important;
-  padding-left: 50px !important;
+  padding-left: 50px ;
 }
 
 .heading-name {
   font-size: 2.5em !important;
-  padding-left: 45px !important;
+  padding-left: 45px ;
 }
 
 .main-name {
