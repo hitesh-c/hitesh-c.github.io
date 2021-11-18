@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.28d302ac.chunk.css",
+    "main.css": "/static/css/main.647c3ea2.chunk.css",
     "main.js": "/static/js/main.afdd1dd4.chunk.js",
     "main.js.map": "/static/js/main.afdd1dd4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.602bef71.js",
@@ -12,7 +12,7 @@
     "static/js/3.f0e5a195.chunk.js.map": "/static/js/3.f0e5a195.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e7f3f9d7.chunk.css.map": "/static/css/2.e7f3f9d7.chunk.css.map",
-    "static/css/main.28d302ac.chunk.css.map": "/static/css/main.28d302ac.chunk.css.map",
+    "static/css/main.647c3ea2.chunk.css.map": "/static/css/main.647c3ea2.chunk.css.map",
     "static/js/2.884d156f.chunk.js.LICENSE.txt": "/static/js/2.884d156f.chunk.js.LICENSE.txt",
     "static/media/Soumyajit-Behera.394b6e42.pdf": "/static/media/Soumyajit-Behera.394b6e42.pdf",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.602bef71.js",
     "static/css/2.e7f3f9d7.chunk.css",
     "static/js/2.884d156f.chunk.js",
-    "static/css/main.28d302ac.chunk.css",
+    "static/css/main.647c3ea2.chunk.css",
     "static/js/main.afdd1dd4.chunk.js"
   ]
 }
