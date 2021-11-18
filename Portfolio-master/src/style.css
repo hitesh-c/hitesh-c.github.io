@@ -14,6 +14,12 @@ html {
   --imp-text-color: #c770f0;
 }
 
+.circular-img {
+  border-radius: 50% !important;
+  width: 70%;
+  height: inherit;
+}
+
 .purple {
   color: var(--imp-text-color) !important;
 }
