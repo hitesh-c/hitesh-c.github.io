@@ -10,7 +10,8 @@
 
 # production
 /build
-
+/src/Assets/Resume_Soumyajit_Behera.pdf
+/src/Assets/Soumyajit-Behera.pdf
 # misc
 .DS_Store
 .env
